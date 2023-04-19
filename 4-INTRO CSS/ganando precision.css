@@ -1,0 +1,8 @@
+
+ul :first-of-type{
+    color: red;
+    font-size: 2rem
+}
+ol :first-of-type{
+    color: red;
+}
